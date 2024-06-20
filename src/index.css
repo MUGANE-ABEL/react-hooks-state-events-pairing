@@ -10,3 +10,18 @@ body {
 .App {
   text-align: center;
 }
+
+.Details {
+  text-align: center;
+  text-emphasis: bold;
+}
+
+.smalltext {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: small;
+  flex-direction:row;
+}
+
+.Liker {
+  padding: 7px
+}
